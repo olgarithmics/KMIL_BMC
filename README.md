@@ -7,6 +7,15 @@ One can select between two different running modes: euclidean and siamese one.
 Using the argument k, the number of neighbors can be specified. 
 Because the running time grows proportionally to the number of K, it is advised to tested it for K<10.
 
+
+
+<p align="center">
+  <img src="graph_mil_process.png" width="350" title="hover text">
+</p>
+
+
+
+
 ## Installation
 It is advised to use a conda installation, as it is more straightforward.
  - python=3.7
