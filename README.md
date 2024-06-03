@@ -9,9 +9,7 @@ Because the running time grows proportionally to the number of K, it is advised 
 
 
 
-<p align="center">
-  <img src="graph_mil_process.png" width="350" title="hover text">
-</p>
+![model-architecture](graph_mil_process.png)
 
 
 
