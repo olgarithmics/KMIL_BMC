@@ -1,5 +1,5 @@
 
-## Deep Image Neighbor Based Multiple Instance Learning
+## Not seeing the trees for the forest. The impact of neighbours on graph-based configurations in histopathology
 The code can be used to run experiments on the the COLON cancer and UCSB datasets. 
 To test the siamese version of our model the weights are stored 
 in the root directory under the name colon_weights and cell_weights, respectively. 
